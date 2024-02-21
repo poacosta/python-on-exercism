@@ -1,10 +1,10 @@
-# Python rocks
+# Python rocks!
 
 [Exercism](https://exercism.org/) is an open source, not-for-profit project built by people from all backgrounds. With over one hundred dedicated maintainers and thousands of contributors, our goal is to create the best, free, code learning platform on the web.
 
 **This repo contains my progress in the [Python track](https://exercism.org/tracks/python) on [Exercism](https://exercism.org/).**
 
-**I strongly encourage everyone to find their solutions. However, if you're just learning and need a hint, this might help.**
+**I strongly encourage everyone to find their own solutions. However, if you're just learning and need a hint, this might help.**
 
 By the way, Exercism frequently updates its exercises. These solutions cover the tests you might find in the folders for this project.
 
